@@ -1,0 +1,7 @@
+/x86_64/static/*
+!/x86_64/static/*.vpkg
+
+/x86_64/dynamic/*
+!/x86_64/dynamic/*.vpkg
+
+/sync.sh
